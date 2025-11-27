@@ -1,8 +1,8 @@
 # Ex-3-Implement-Depth-First-Search-Traversal-of-a-Graph
 
-**Name:K Nishal**
+**Name:MOHAN M**
 
-**Register Number:2305001021**
+**Register Number:2305001018**
 
 ### Aim:
 To Implement Depth First Search Traversal of a Graph using Python 3.
